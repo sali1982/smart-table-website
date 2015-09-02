@@ -1,0 +1,3 @@
+Change this: 	<input st-search="'firstName'" placeholder="search for firstname" class="input-sm form-control" type="search"/>
+
+To this: 	<input st-search="firstName" placeholder="search for firstname" class="input-sm form-control" type="search"/>
